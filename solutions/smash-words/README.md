@@ -29,3 +29,10 @@ public static String smash(String... words) {
     if (words == null) return "";
     return String.join(" ", words);
 }
+
+```
+## 💡 Alternative Approach (Python)
+```python
+def smash(*words):
+    return " ".join(words)
+
