@@ -31,13 +31,11 @@ public class BooleanToString {
 //OR
 
 public class BooleanToString {
-  
+
   public static String convert(boolean b){
 
     return String.valueOf(b);
-
   }
-
 }
 ```
 ## 💡 Alternative Approach (Python)
