@@ -39,3 +39,20 @@ public class BooleanToString {
   }
 
 }
+```
+## 💡 Alternative Approach (Python)
+
+Mapping by dictionary: 
+
+```python
+def bool_to_str(b):
+  map = {True: "True", False: "False"}
+  return map[b]
+```
+
+List index: (Since bool type is a subset of int)
+
+```python
+def bool_to_str(b):
+  return ["False" , "True"][b]
+```
