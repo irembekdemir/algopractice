@@ -8,7 +8,7 @@ My goal is to improve my problem-solving skills, master data structures, and pra
 
 ## 🏆 Completed Challenges
 
-| # | Problem Title | Platform | Topic | Language | Solution |
+| # | Problem Title | Platform | Topic | Language | 
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | 1 | [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041e) | Codewars | Strings / Arrays | Java & Python | 
 | 2 | [Square Sum](https://www.codewars.com/kata/515e271a311df0350d00000f) | Codewars | Arrays / Math | Java & Python | 
