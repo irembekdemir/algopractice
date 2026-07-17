@@ -24,6 +24,7 @@ My goal is to improve my problem-solving skills, master data structures, and pra
 | 12 | [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | Codewars | Lists / Filtering / Data Structures | Java | [12](https://github.com/irembekdemir/algo/tree/main/solutions/12.list-filter) |
 | 13 | [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) | Codewars | Strings | Java | [13](https://github.com/irembekdemir/algo/tree/main/solutions/13.dna-rna) |
 | 14 | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | Codewars | Strings | Java | [14](https://github.com/irembekdemir/algo/tree/main/solutions/14.abbreviate) |
+| 15 | [Sum of (Two) Squares](https://www.codewars.com/kata/52217066578afbcc260002d0) | Codewars | Mathematics / Algorithms | Python | [15](https://github.com/irembekdemir/algo/tree/main/solutions/15.sum-square.5) |
 
 
 
