@@ -22,6 +22,8 @@ My goal is to improve my problem-solving skills, master data structures, and pra
 | 10 | [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6) | Codewars | Stings  | Java  | [10](https://github.com/irembekdemir/algo/tree/main/solutions/10.jadencase.git) |
 | 11 | [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | Codewars | Stings / Conditionals | Java | [11](https://github.com/irembekdemir/algo/tree/main/solutions/11.print-error.git) |
 | 12 | [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd) | Codewars | Lists / Filtering / Data Structures | Java | [12](https://github.com/irembekdemir/algo/tree/main/solutions/12.list-filter.git) |
-| 13 | [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) | Codewars | Stings | Java | [13](https://github.com/irembekdemir/algo/tree/main/solutions/13.dna-to-rna.git) |
+| 13 | [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089) | Codewars | Strings | Java | [13](https://github.com/irembekdemir/algo/tree/main/solutions/13.dna-to-rna.git) |
+| 14 | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | Codewars | Strings | Java | [14](https://github.com/irembekdemir/algo/tree/main/solutions/14.abbreviate.git) |
+
 
 
