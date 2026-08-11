@@ -1,0 +1,21 @@
+# macOS 
+.DS_Store
+.AppleDouble
+.LS_Store
+
+# Java 
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and Editors
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Temporary files
+*.log
+*.tmp
