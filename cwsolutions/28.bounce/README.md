@@ -47,3 +47,21 @@ If all three conditions above are fulfilled, return a positive integer; otherwis
 
 ---
 
+## Alternative Approach (Logarithmic)
+
+```java
+public class BouncingBall {
+
+    public static int bouncingBall(double h, double bounce, double window) {
+        if (h <= 0 || bounce <= 0 || bounce >= 1 || window >= h) {
+            return -1;
+        }
+
+        // Calculate the number of valid bounces mathematically
+        int bounces = (int) Math.ceil(Math.log(window / h) / Math.log(bounce)) - 1;
+
+        // 1 initial drop + 2 passes per valid bounce
+        return 1 + (bounces * 2);
+    }
+}
+```
