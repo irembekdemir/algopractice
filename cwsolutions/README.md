@@ -1,8 +1,8 @@
-# Algorithm Solutions (Java & Python)
+# CodeWars Algorithm Solutions (Java & Python)
 
-Welcome to my algorithm repository! This repository is dedicated to storing my solutions for various algorithmic problems and coding challenges from platforms like **Codewars**, **LeetCode**, and more. 
+Welcome to my repository! This repository is dedicated to storing my solutions for various algorithmic problems and coding challenges from the **Codewars** platform. You can find me there by: @luzzdelun
 
-My goal is to improve my problem-solving skills, master data structures, and practice algorithmic thinking using **Java** and **Python**.
+My goal is to improve my problem-solving skills, master data structures, and practice algorithmic thinking using mostly **Java** and **Python**.
 
 ---
 
