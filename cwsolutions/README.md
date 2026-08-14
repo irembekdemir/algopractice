@@ -1,4 +1,4 @@
-# 🚀 Algorithm Solutions (Java & Python)
+# Algorithm Solutions (Java & Python)
 
 Welcome to my algorithm repository! This repository is dedicated to storing my solutions for various algorithmic problems and coding challenges from platforms like **Codewars**, **LeetCode**, and more. 
 
