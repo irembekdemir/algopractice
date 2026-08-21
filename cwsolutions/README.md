@@ -44,3 +44,4 @@ My goal is to improve my problem-solving skills, master data structures, and pra
 | 32 | [Are You Playing Banjo?](https://www.codewars.com/kata/53af2b8861023f1d88000832/java) | Codewars | Strings | Java | 8 kyu |
 | 33 | [Break CamelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/java) | Codewars | Strings | Java | 6 kyu |
 | 34 | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/solutions/java) | Codewars | Strings / Data Structures | Java | 6 kyu |
+| 35 | [Pete the Baker](https://www.codewars.com/kata/525c65e51bf619685c000059/java) | Codewars | Algorithms / Data Structures | Java | 5 kyu |
