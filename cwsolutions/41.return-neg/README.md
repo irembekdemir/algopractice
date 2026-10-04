@@ -21,3 +21,12 @@ In this simple assignment, you are given a number and have to make it negative. 
 * **Platform:** Codewars
 * **Difficulty:** 8 kyu
 * **Topics:** Fundamentals, Algorithms, Mathematics
+
+## Alternative Approach
+```cpp
+#include  
+
+int makeNegative(int num) {
+    return -std::abs(num);
+}
+```
