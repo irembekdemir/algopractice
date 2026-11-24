@@ -45,3 +45,25 @@ My goal is to improve my problem-solving skills, master data structures, and pra
 | 33 | [Break CamelCase](https://www.codewars.com/kata/5208f99aee097e6552000148/java) | Codewars | Strings | Java | 6 kyu |
 | 34 | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/solutions/java) | Codewars | Strings / Data Structures | Java | 6 kyu |
 | 35 | [Pete the Baker](https://www.codewars.com/kata/525c65e51bf619685c000059/java) | Codewars | Algorithms / Data Structures | Java | 5 kyu |
+| 36 | [You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b) | Codewars | Arrays / Fundamentals | Java | 8 kyu |
+| 37 | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | Codewars | Arrays / Fundamentals | Java | 8 kyu |
+| 38 | [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) | Codewars | Arrays / Fundamentals | Java | 8 kyu |
+| 39 | [Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1) | Codewars | Mathematics / Algorithms | Python | 6 kyu |
+| 40 | [Sum of the first nth term of Series](https://www.codewars.com/kata/555eded1ad94b00403000071) | Codewars | Mathematics / Algorithms | Java | 7 kyu |
+| 41 | [Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102) | Codewars | Mathematics / Fundamentals | C++ | 8 kyu |
+| 42 | [Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | Codewars | Mathematics / Arrays | C++ | 8 kyu |
+| 43 | [What is between?](https://www.codewars.com/kata/55ecd718f46fba02e5000029) | Codewars | Arrays / Fundamentals | Python | 8 kyu |
+| 44 | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) | Codewars | Strings | Python | 7 kyu |
+| 45 | [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003) | Codewars | Mathematics / Fundamentals | Python | 8 kyu |
+| 46 | [Total amount of points](https://www.codewars.com/kata/5bb904724c47249b10000131) | Codewars | Arrays / Strings | Python | 8 kyu |
+| 47 | [Is this a triangle?](https://www.codewars.com/kata/56606694ec01347ce800001b) | Codewars | Mathematics / Geometry | Python | 7 kyu |
+| 48 | [Correct the mistakes of the character recognition software](https://www.codewars.com/kata/577bd026df78c19bca0002c0) | Codewars | Strings | Python | 8 kyu |
+| 49 | [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) | Codewars | Fundamentals / Conditionals | Python | 8 kyu |
+| 50 | [Categorise New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) | Codewars | Arrays / Conditionals | Python | 7 kyu |
+| 51 | [Cat Years, Dog Years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b) | Codewars | Mathematics / Conditionals | Python | 8 kyu |
+| 52 | [Is the string uppercase?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) | Codewars | Strings | Python | 8 kyu |
+| 53 | [Thinkful - Dictionary drills: Order filler](https://www.codewars.com/kata/586ee462d0982081bf001f07) | Codewars | Dictionaries | Python | 8 kyu |
+| 54 | [Sorting Dictionaries](https://www.codewars.com/kata/53da6a7e112bd15cbc000012) | Codewars | Dictionaries / Sorting | Python | 7 kyu |
+| 55 | [Dictionary from two lists](https://www.codewars.com/kata/5533c2a50c4fea6832000101) | Codewars | Dictionaries / Lists | Python | 7 kyu |
+| 56 | [Scrabble Score](https://www.codewars.com/kata/558fa34727c2d274c10000ae) | Codewars | Strings / Dictionaries | Python | 7 kyu |
+| 57 | [Unused digits](https://www.codewars.com/kata/55de8eabd9bef5205e0000ba) | Codewars | Strings / Algorithms | Python | 7 kyu |
