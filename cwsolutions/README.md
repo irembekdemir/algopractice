@@ -66,4 +66,8 @@ My goal is to improve my problem-solving skills, master data structures, and pra
 | 54 | [Sorting Dictionaries](https://www.codewars.com/kata/53da6a7e112bd15cbc000012) | Codewars | Dictionaries / Sorting | Python | 7 kyu |
 | 55 | [Dictionary from two lists](https://www.codewars.com/kata/5533c2a50c4fea6832000101) | Codewars | Dictionaries / Lists | Python | 7 kyu |
 | 56 | [Scrabble Score](https://www.codewars.com/kata/558fa34727c2d274c10000ae) | Codewars | Strings / Dictionaries | Python | 7 kyu |
+<<<<<<< HEAD
 | 57 | [Unused digits](https://www.codewars.com/kata/55de8eabd9bef5205e0000ba) | Codewars | Strings / Algorithms | Python | 7 kyu |
+=======
+| 57 | [Unused digits](https://www.codewars.com/kata/55de8eabd9bef5205e0000ba) | Codewars | Strings / Algorithms | Python | 7 kyu |
+>>>>>>> 9e16e6b62cac1232a92050fb5cc740ab1c7b1b1b
